@@ -19,7 +19,6 @@ Die Organe der Fachschaft sind:
 
 
 ## § 3 Vollversammlung
-
 (1) Die Vollversammlung der Fachschaft ist das oberste beschlussfassende Organ der Fachschaft. In der Vollversammlung haben alle Mitglieder der Fachschaft Sitz und Stimme.
 
 (2) In jedem Studienjahr soll eine ordentliche Vollversammlung stattfinden. Für die Durchführung ist der Fachschaftsrat verantwortlich.
@@ -32,14 +31,13 @@ Die Organe der Fachschaft sind:
 
 
 ## § 4 Fachschaftsrat
-
 (1) Der Fachschaftsrat ist beschlussfähiges und ausführendes Organ der Fachschaft. Er ist an die Satzung und an die Beschlüsse der Vollversammlung gebunden.
 
 (2) Der Fachschaftsrat wird im Normalfall einmal im Jahr am Anfang des Sommersemesters entsprechend der Wahlordnung der Fachschaft IT-Systems Engineering gewählt.
 
 (3) Dem Fachschaftsrat gehören in der Regel acht, mindestens jedoch sechs Mitglieder an. Der Fachschaftsrat sollte aus Bachelor- und Masterstudierenden möglichst vieler unterschiedlicher Semester sowie Promovierenden bestehen.
 
-(4) Der Fachschaftsrat oder einzelne Mitglieder können jederzeit durch Beschluss der Vollversammlung abgewählt werden. Dadurch treten die Regelungen entsprechend §4g in Kraft.
+(4) Der Fachschaftsrat oder einzelne Mitglieder können jederzeit durch Beschluss der Vollversammlung abgewählt werden. Näheres reglt die Geschäftsordnung.
 
 (5) Der Fachschaftsrat gibt sich eine Geschäftsordnung.
 
@@ -62,7 +60,7 @@ Zu den Aufgaben des Fachschaftsrates gehören insbesondere:
 
 (3) Auf den Sitzungen ist ein Protokoll zu führen.
 
-(4) Die Sitzungen des Fachschaftsrates sind offen für alle Mitglieder der Fachschaft. Auf Beschluss kann die Öffentlichkeit ausgeschlossen werden. Inhalte von nicht öffentlichen Sitzungsteilen sind in gesonderten Protokollen festzuhalten, auf die mit einer Begründung für die Geheimhaltung im regulären Protokoll verwiesen wird.
+(4) Die Sitzungen des Fachschaftsrates sind offen für alle Mitglieder der Fachschaft. Auf Beschluss kann die Öffentlichkeit ausgeschlossen werden. Inhalte von nicht öffentlichen Sitzungsteilen sind in gesonderten Protokollen festzuhalten, auf die mit einer Begründung für die Geheimhaltung im regulä(4) Der Fachschaftsrat oder einzelne Mitglieder können jederzeit durch Beschluss der Vollversammlung abgewählt werden. Dadurch treten die Regelungen entsprechend §4g in Kraft.(4) Der Fachschaftsrat oder einzelne Mitglieder können jederzeit durch Beschluss der Vollversammlung abgewählt werden. Dadurch treten die Regelungen entsprechend §4g in Kraft.ren Protokoll verwiesen wird.
 
 (5) Näheres regelt die Geschäftsordnung des Fachschaftsrates.
 
